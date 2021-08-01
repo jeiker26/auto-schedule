@@ -1,0 +1,22 @@
+{
+  "name": "auto-schedule",
+  "version": "1.0.0",
+  "description": "auto-schedule",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeiker26/auto-schedule.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeiker26/auto-schedule/issues"
+  },
+  "homepage": "https://github.com/jeiker26/auto-schedule#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
